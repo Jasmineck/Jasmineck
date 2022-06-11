@@ -36,8 +36,9 @@
   <br />
   <br />
   <br />
-  <h1 align="center">⚝──⭒🌸 ┍————------------ /ᐠ｡ꞈ｡ᐟ\----------- ————┑ 🌸⭒──⚝</h1>  
-  <br /><br />
+  <h1 align="center">🌸 ┍————------------ /ᐠ｡ꞈ｡ᐟ\----------- ————┑ 🌸</h1>  
+  <br />
+  
   <p align="center">
   <img 
    src="https://github.com/Elliottophellia/Elliottophellia/blob/main/img/Repo-elaina.png"

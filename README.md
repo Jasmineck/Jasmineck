@@ -38,8 +38,8 @@
   
 <p align="center">
   <img 
-       align="right"
-        src="https://images2.alphacoders.com/115/1153685.jpg"
+      
+        src="https://github.com/Elliottophellia/Elliottophellia/blob/main/img/Repo-elaina.png"
        
    
   >

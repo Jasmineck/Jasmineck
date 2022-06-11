@@ -1,6 +1,12 @@
-<h1 align="center">🌸 Moshi Moshi °˖✧◝(⁰▿⁰)◜✧˖°🌸</h1>                            
+<h1 align="center">🌸 Moshi Moshi °˖✧◝(⁰▿⁰)◜✧˖°🌸</h1>    
 
-                            ![alt text](https://github.com/Elliottophellia/Elliottophellia/blob/main/img/AboutMe-elaina.png?raw=true)
+<p align="center">
+  <img 
+    src="https://github.com/Elliottophellia/Elliottophellia/blob/main/img/AboutMe-elaina.png"
+  >
+</p>
+
+
 
 <h1 align="center">🌸 Hi, I'm Jasmine C Kachhap 🌸</h1>
 <h3 align="center">An enthusiastic and passionate bud from India with a creative mind >u<</h3>

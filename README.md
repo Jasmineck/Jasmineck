@@ -36,8 +36,7 @@
   
   <p align="center">
   <img 
-       width="1080"
-    height="300"
+    
        
     src="https://c4.wallpaperflare.com/wallpaper/315/335/724/video-game-art-genshin-impact-xiao-hd-wallpaper-preview.jpg"
   >

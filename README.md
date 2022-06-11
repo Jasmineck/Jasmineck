@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt text](https://github.com/Elliottophellia/Elliottophellia/blob/main/img/AboutMe-elaina.png?raw=true)
+
 <!--
 **Jasmineck/Jasmineck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
